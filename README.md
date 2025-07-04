@@ -1,3 +1,4 @@
+HEAD
 # 基于开源AI大模型的教学实训智能体软件前端
 
 这是为"基于开源AI大模型的教学实训智能体软件"比赛项目开发的前端系统，使用 Vue3 + Vite + TypeScript + Element Plus 技术栈开发。
@@ -105,3 +106,5 @@ npm run preview
 3. 提交更改 (`git commit -m 'Add some amazing feature'`)
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 创建 Pull Request
+# QuantumRAG
+ 998a31162b4929d6118795f5d3a85ced112a7a8e
